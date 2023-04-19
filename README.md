@@ -1,4 +1,4 @@
-# Module-1-Challenge
+# Horiseon
 2022 Coding Bootcamp Module 1 Challenge
 
 # Description
